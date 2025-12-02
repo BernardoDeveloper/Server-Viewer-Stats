@@ -17,3 +17,7 @@ Or you can see the information in real time using the flag `--real-time`
 ```sh
 ./server-stats.sh --real-time
 ```
+
+---
+
+Roadmap.sh project idea link: https://roadmap.sh/projects/server-stats
