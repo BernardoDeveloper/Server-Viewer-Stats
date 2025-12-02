@@ -12,7 +12,7 @@ main() {
 }
 
 # verify the flag
-if [[ "$1" == "--not-stop" ]]; then
+if [[ "$1" == "--real-time" ]]; then
 	echo "Monitorando CPU em tempo real... (CTRL+C para parar)"
 
 	while true; do
